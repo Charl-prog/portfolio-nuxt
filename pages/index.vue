@@ -1,15 +1,7 @@
 <template>
-    <div>
-      <h1>Bienvenue sur mon portfolio</h1>
-      <p>Ceci est ma page d'accueil.</p>
+    <div class="text-center py-20">
+      <h1 class="text-4xl font-bold text-gray-800">Bienvenue sur mon portfolio</h1>
+      <p class="text-gray-600 mt-4">Ceci est ma page d'accueil stylisée avec Tailwind CSS.</p>
     </div>
   </template>
-  
-  <script setup>
-  // Dans Nuxt 3, tu peux utiliser <script setup> pour définir la logique de ton composant
-  </script>
-  
-  <style scoped>
-  /* Tu peux ajouter ton style ici */
-  </style>
   
